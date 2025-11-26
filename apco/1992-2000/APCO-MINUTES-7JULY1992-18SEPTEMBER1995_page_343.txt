@@ -1,0 +1,55 @@
+u6
+ID: 10522 TO: Rt 651 CON 225,000
+SAAP Length: 1.13 TOT 226,000
+Grade, Drain,
+(_ 7») Stabl. & New St
+Route 0619 0619-006-P85, N501 P.E. 1,000
+Te: S51 FR: Rt. 620 R/W
+ID: 10520 TO: Rt. 633 CON 225,000
+SAAP Length: 1.20 Tor 226,000
+Grade, Drain,
+(_ 8 ) Stabl., & New St
+Route 0619 0619-006-P85, D624 P.E. 500
+Teo: 51 Replace Bridge R/W
+ID: 10520 over Swanne Creek CON 84,500
+SAAP w/Triple 84" corr. TOT 85,000
+Steel Pipe
+(_ 8») Structure No. 6095
+Route 0665 0665-006-P 7N P.E. 1,000
+Tc: 52 FR: Rt 663 R/W
+TO: Rt 611 CON 125,000
+SAAP Length: 0.70 TOT 126,000
+Grade, Drain,
+(_ 9 ~~») Stabl. & New St.
+Route 0641 0641-006-P yN P.E. 1,000
+Tc: 45 FR: Rt. 719 R/W 5,000
+TO: Dead End CON 85,000
+SAAP Length: 0.50 TOT 91,000
+Grade, Drain,
+(10 ) Stabl. & New St.
+Route 0636 0636-006-P yN P.E. 1,000
+TCs 55 FR: Rt 637 R/W
+TO: 2.00 MN Rt 637 CON 325,000
+SAAP Length: 2.00 TOT 326,000
+Grade, Drain,
+(11) Stabl., & New St
+Route 0661 0661-006-P iN P.E. 1,000
+Te: 45 FR: Rt 613 R/W
+TO: Rt 660 CON 200,000
+SAAP Length: 1.00 TOT 201,000
+Grade, Drain,
+(12) Stabl., & New St
+Route 0715 0715-006-P N P.E. 1,000
+Tes 50 FR: Rt 712 R/W
+TO: Dead end CON 75,000
+SAAP Length: 0.35 Tor 76,000
+Grade, Drain,
+(_ 13) Stabl, & New St
+Route 0675 0675-006-P iN P.E. 2,000
+TC: 45 FR: Rt 700 R/W
+TO: Rt 644 CON 500,000
+SAAP Length: 3.00 TOT 502,000
+Grade, Drain,
+(14 +) Stabl. & New St.
+Route 0674 0674-006-P N P.E. 1,000
+TC: 41 FR: Int. Rt 460 R/W

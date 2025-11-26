@@ -1,0 +1,55 @@
+320
+SAAP Length: 0.70 TOT 126,000
+Grade, Drain,
+(9 ~~») Stabl. & New St.
+Route 0641 0641-006-P 7N P.E. 1,000
+TCs 45 FR: Rt. 719 R/W 5,000
+TO: Dead End CON 85,000
+SAAP Length: 0.50 TOT 91,000
+Grade, Drain,
+(_10 ) Stabl. & New St.
+Route 0636 0636-006-P yN P.E. 1,000
+Tc: 55 FR: Rt 637 R/W
+TO: 2.00 MN Rt 637 CON 325,000
+SAAP Length: 2.00 TOT 326,000
+Grade, Drain,
+(11 +) Stabl., & New St
+Route 0661 0661-006-P N P.E. 1,000
+Te: 45 FR: Rt 613 R/W
+TO: Rt 660 CON 200,000
+SAAP Length: 1.00 TOL 201,000
+Grade, Drain,
+(12 +) Stabl., & NewSt
+Route 0715 0715-006-P N P.E. 1,000
+Te: 50 FR: Rt 712 R/W
+TO: Dead end CON 75,000
+SAAP Length: 0.35 TOT 76,000
+Grade, Drain,
+(13 +) Stabl, & New St
+Route 0675 0675-006-P /N P.E. 2,000
+TC: 45 FR: Rt 700 R/W
+TO: Rt 644 CON 500,000
+SAAP Length: 3.00 TOT 502,000
+Grade, Drain,
+(14) Stabl. & New St.
+Route 0674 0674-006-P N P.E. 1,000
+TC: 41 FR: Int. Rt 460 R/W
+TO: Dead End CON 80,000
+SAAP Length: 0.40 TOT 81,000
+Grade, Drain,
+(15) Stabl. & New St.
+Route 0614 0614-006-P ,N501 P.E. 1,000
+Te: 39 FR: Rt 651 R/W
+TO: Rt 626 CON 250,000
+SAAP Length: 1.60 Tor 251,000
+Grade, Drain,
+(16) Stabl. & New St
+Route 0614 0614-006-P ,N502 P.E. 1,000
+TCs 39 FR: Rt 626 R/W
+TO: Rt 692 CON 200,000
+( 16 ) Grade, Drain, Tor 201,000
+Stabl. & New
+Route 0607 0607-006-P yN P.E. 1,000
+TCs 52 FR: Campbell Co. R/W 5,000
+TO: Rt 698 CON 80,000
+SAAP Length: 0.45 TOT 86,000

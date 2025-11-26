@@ -1,0 +1,48 @@
+345
+TO: Dead End CON 80,000
+SAAP Length: 0.40 Tor 81,000
+Grade, Drain,
+(15) Stabl. & New St.
+Route 0614 0614-006-P ,N501 P.E. 1,000
+Te: 39 FR: Rt 651 R/W
+TO: Rt 626 CON 250,000
+SAAP Length: 1.60 TOr 251,000
+Grade, Drain,
+(16) Stabl. & NewSt
+Route 0614 0614-006-P ,N502 P.E. 1,000
+Tc: 39 FR: Rt 626 R/W
+TO: Rt 692 CON 200,000
+( 16 ) Grade, Drain, TOr 201,000
+Stabl. & New
+Route 0607 0607-006-P ,N P.E. 1,000
+TC: 52 FR: Campbell Co. R/W 5,000
+TO: Rt 698 CON 80,000
+SAAP Length: 0.45 Tor 86,000
+Grade, Drain,
+(_17_) Stabl. & New St.
+Route 0652 0652-006-P ,N P.E. 2,000
+TC: 53 FR: Rt 648 R/W 5,000
+TO: 1.00 MSW Rt648 CON’ 180,000
+SAAP Length: 1.00 TOT 187,000
+Grade, Drain,
+(18 ) Stabl. & New St.
+Route 0716 0716-006-P ,N P.E. 1, 000
+TC: 41-55 FR: Rt 644 R/W 5,000
+TO: 0.58 MW Rt 644 CON —- 90,000
+SAAP Length: 0.58 Tor 96,000
+Grade, Drain,
+(19) Stabl. & NewSt
+Mr. Torrence asked Ms. Lindsay to check on Main Street in Pamplin to
+see why snow was not pushed during the last storm. Also he stated that
+he understood that there were some pot-holes in Main Street in Pamplin.
+Ms. Lindsay explained that Primary Roads receive first priority then
+secondary roads. She continued by saying that they did not have the
+equipment to remove ice.
+Mr. Carwile told Ms. Lindsay that he would like to bring to her
+attention that at the intersection of Route 608 and Route 721 adjacent
+to Mt. Obed Church, signs had been erected saying Stonewall.
+Mr. Carwile continued by saying that the Church is unhappy with the
+placement of these signs and Mr. Carwile would like to know if they
+could be moved from the front of the Church.
+Ms. Lindsay stated that she would look into this matter but normally a
+traffic engineer determines the placement of these signs.

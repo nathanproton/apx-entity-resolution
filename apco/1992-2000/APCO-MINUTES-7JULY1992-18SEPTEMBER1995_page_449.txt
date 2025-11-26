@@ -1,0 +1,47 @@
+340
+SAAP TO: 0.20 MS Rt 687 TOT ene 000
+: Length: 1.00 EAD 02 1994
+(3 +) Reconst exist Rdwy ie) ie 1994
+Route 0695 10,000
+Te: 107 0695-006-eae! mene aew aee eon
+ID: 5774 FR:1.0 MS Rt 102,000
+CONTRACT TO:1.2a Rt 4e0 143/550S 0.20 FAD 11/1938
+(_4 ) Appr to New Bridge. AD 10 1996
+Route 0695 E. 30,000
+Te: 107 0695-006-pe pe to at 0
+ID: 5774 Replace Exis 290,000
+CONTRACT Bridge over NEW 320,000BROS RR with new Bridge EAD 11 1995
+4 Structure No. 6073 ECD 10 1996
+Ou’ 50,000
+TC: 1174 0608-006-142 ,C502 RW 110,000
+ID: 5757 FR: pees tN Rt609 IN 485,000
+CONTRACT TO: Rt.6 Tor 645,000
+STATE to74 EAD 05 1995(_ 5 ) Reconst ers Rdwy BD 12 1995
+Route 0634 P.E 25,000
+TC: 630 0634-006-191,M501 R W/ 60; 000ID: 12424 FR: Rt 460 290; 000
+CONTRACT TO: Rt eee TOT 375,000
+STATE 0.59 FAD 07 1996(_ 6 ) Reconst, exist Rowy EDC 05 1997
+Route 0632 E. 1,000
+TC: 428 0632-006- yN Rpt (e)
+ID: FR: Rt 634 200,000
+SAAP TO: rt rar TOT 201,000
+STATE Length: EAD 07 1997
+(_7_) Widén/ strgth Rdwy cp 12 1997
+Route 0629 E. 15,000
+TCs 156 0629-006- RM ie}ID: 12423 Replace Rxisting N 150,000
+CONTRACT Bridge w/Drainage He 165,000
+STATE Structure 04 19988 Structure No. 6145 ECD 10 42RR 5
+oulTCs 156 0629-006- 7D RW 5,000
+ID: 12423 roaches tO Dr. 75, 000
+CONTRACT . pittle | Cub Ck pists 90,000
+STATE : 04 1998
+( 8 ) Recon. Set aches ED 10_ 1998
+Route 0683 E. 10,000
+Tc: 379 0683-006- ic RW 5; 000
+ID: Approaches to_Br. 75,000
+CONTRACT oSWreck Island TOT 90/000
+STATE EAD 07 1999
+(_ 9 +) enath: 0.20 ECD 05 2000
+Route 0683 P.E. 20,000
+TCs 379 0683-006- B ae 0
+ID: Replace existing N 150,000

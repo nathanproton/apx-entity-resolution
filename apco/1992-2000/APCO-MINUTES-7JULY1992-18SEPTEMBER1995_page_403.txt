@@ -1,0 +1,49 @@
+404
+SECONDARY SYSTEM
+DETAILS OF CONSTRUCT BUDGET
+July 1, 1994 - June 30, 1995
+County (006) Appomattox
+Residency (20) Appomattox
+District (3) Lynchburg
+ROUTE DESCRIP. ESTIMATED PREV. BUDGET COMMENTS
+LENGTH cost FUNDED. AMOUNT
+Route 8000 P.E. ie} ie) 0 State Forces
+8000-5603 R/W ie) (e) (e)
+Rural CON 40,000 0 40,000
+Additions TOT 40,000 0 40,000
+(_ 0)
+Route 8003 P.E. ie) ie) ie) State Forces
+8003-5601 R/W 0 0 (e)
+Traffic CON 2,000 0 2,000
+Services TOT 2,000 0 2,000
+(_ 0) etc.
+Route 8005 P.E. 0 ie) fe) State Forces
+8005-5604 R/W 0 0 0
+Pipe InstalCON 30,000 0 30,000
+Private TOT 30,000 0 30,000
+(_ 0) Entrances
+Route 8012 P.E. (e) (e) fe) State Forces
+8012-5605 R/W (e) (e) fe)
+PreliminaryCON 5,000 0 5,000
+Eng. & Tor 5,000 0 5,000
+(_ 0) Surveys
+Route 8014 P.E. 0 0 0 State Forces
+8014-5606 R/W fe) 0 0
+Fertiliza- CON 2,000 0 2,000
+tion & Tor 2,000 O 2,000
+(_ 0) seeding
+Route 8015 P.E. 0 0 0 State Forces
+8015-5607 R/W fe) fe) (e)
+SubdivisionCON 1,000 0 1,000
+(_0O ) Plan ReviewloT 1,000 QO 1,000
+TOTAL COUNTY WIDE
+IMPROVEMENTS 80,000 0 80,000
+SR2A Page 2
+Route 0656 P.E. 1,000 1,000 (e) Contract
+Tc: 296 0656-006- Awarded 5/94
+181,N501 R/W 25,000 5,000 20,000
+ID: 5779 FR:0.20
+MS RTE 687 CON 200,000 167,073 32,927
+CONTRACT 10:0.20 MN
+RTE 657 TOT 226,000 173,073 52,927
+STATE LEN: 1.00

@@ -1,0 +1,33 @@
+432
+Samuel Carter - Courthouse District
+ABSENT: Jesse Hancock - Falling River District
+ALSO PRESENT: Andy Carroll - County Administrator
+At 6:30 P.M. Mr. Moore opened the Public Hearing and read a statement that the Board of
+Supervisors would receive comments regarding the proposed 911 Ordinance and Telephone Utility
+License Tax.
+ARTICLE XVII
+SPECIAL TAX FOR THE PROVISION OF ENHANCED 9-1-1 SERVICES
+(final draft)
+§ 147-54 Definitions
+A. “Automatic location identification” or “ALI” means a telephone network capability that
+enables the automatic display of information defining the geographical location of the
+telephone used to place a wireline E-911 call.
+B. “Automatic number identification” or “ANI” means a telephone network capability that
+enables the automatic display of the telephone number used to place a wireline E-911 call.
+C. “Consumer” means a person who, individually or through agents, employees, officers,
+representatives, or permittees, makes a taxable purchase of local telephone services.
+D. “Enhanced 9-1-1 services” or “E-911" means a service consisting of telephone network
+features and Public Safety Answering Points (PSAPs) provided for users of telephone
+systems enabling such users to reach a PSAP by dialing the digits “9-1-1.” Such service
+automatically directs E-911 emergency telephone calls to the appropriate PSAPs by selective
+routing based on the geographical location from which the emergency call originated and
+provides the capability for ANI and/or ALI features.
+E. “Local telephone service” means switched local exchange access service for voice and data
+transmission.
+F. “Provider” means every person engaged in the business of selling local telephone services
+to consumers.
+G. “Public Safety Agency” means a functional division of a public agency which provides fire-
+fighting, police, medical, or other emergency services or a private entity which provides such
+services on a volunteer basis.
+H. “Public Safety Answering Point” or “PSAP” means acommunications facility equipped and
+staffed on a twenty-four hour basis to receive and process E-911 calls.

@@ -1,0 +1,55 @@
+342
+CONTRACT Bridge over Wreck TOT 170,000
+STATE Island Ck w/New EAD 04 1999
+(9 ~~») Structure No. 6069 ECD 12 1999
+Route 0608 P.E. 100,000
+TC: 571 0608-006- ,C503_ R/W/ 100,000
+ID: FR: S Int. Rt. 669 CON 600,000
+CONTRACT TO: 0.20 ME Rt 721 TOT 800,000
+STP Length: 2.64 EAD 07 1999
+(_10_) Reconst Exist Rdwy ECD 06 2000
+Route 0641 P.E. 70,000
+TC: 640 0641-006-137,C502 R/W 30,000
+ID: FR: WCL Appomattox CON 250,000
+CONTRACT TO: Rt 719 TOT 350,000
+STATE Length: 1.20 EAD 07 2002
+(11) Reconst Exist Rdwy ECD 05 2003
+Route 0641 P.E. 20,000
+TC: 640 0641-162-137,C501 R/W 10,000
+ID: 971 FR: Rt. 727 CON 100,000
+CONTRACT TO: WCL Appomattox TOT 130,000
+STATE Length: 0.29 EAD 07 2002
+(11 ~~») Reconst Exist Rdwy ECD 05 2003
+Route 0641 P.E. 2,000
+Tc: 640 0641-006-137,B615 R/W 0
+ID: Replace Existing OON 30,000
+CONTRACT Drainage structure TOT 32,000
+STATE Trib Purdums BranchEAD 07 2002
+(11) Structure No. 6006 ECD 05 2003
+Route 0653 P.E. 1,000 Unpaved Road Funds
+Te: 64 0653-006-P86,N501 R/W 35,000 Contract Awarded 10/93
+ID: 10524 FR: Rt 721 CON 380,000
+CONTRACT TO: Rt 608 TOT 416,000
+STATE Length: 2.30 EAD 07 1993
+( 1 ) Gr., Dr., Stabl, ECD 07 1994
+& St.
+Route 0645 P.E. 2,000 Unpaved Road Funds
+Ic: 54 0604-006-P89,N501 R/W 5,000
+IDs 10523 FR: 0.06 MS Rt 643 CON 400.000
+SAAP TO: Rt. 679 TOT 407,000
+STATE Length: 2.50 EAD 04 1994
+( 2 ) Gr., Dr., Stabl. & ECD 12 1994
+St.
+Route 0645 P.E. 1,000 Unpaved Road Funds
+Te: 54 0645-006-P89,D625 R/W (o)
+ID: 10523 Replace Bridge CON 150,000
+SAAP over North Fork TOT 151,000
+STATE Falling River w/ EAD 04 1994
+( 2 ) triple 10’x 8’ CED 12 1994
+Box Culvert
+Route 0701 P.E. 1,000 Unpaved Road Funds
+TC: 60 0701-006-P N R/W 3,000
+ID: 10526 FR: Rt 24 CON 75,000
+SAAP TO: Dead End TOT 79,000
+STATE Length: 0.43 EAD 07 1994
+( 3 ) Gr., Dr., Stabl. ECD 12 1994

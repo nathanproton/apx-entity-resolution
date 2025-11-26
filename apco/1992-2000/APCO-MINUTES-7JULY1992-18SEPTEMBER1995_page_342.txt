@@ -1,0 +1,52 @@
+343
+& St.
+Route 0713 P.E. 1,000 Unpaved Road Funds
+Tc: 60 0713-006-P ,N R/W 2,000
+ID: FR: Rt 608 CON 90,000
+SAAP TO: Dead End Tor 93,000
+STATE Length: 0.55 EAD 07 1995
+( 4 ) Gr, Gr., Stabl. ECD 12 1995
+& St.
+SECONDARY SYSTEM
+APPOMATTOX COUNTY
+UNPAVED ROAD PRIORITY LIST 1996-97 thru_1999-2000
+ROUTE DESCRIPTION ESTIMATED COMMENTS
+LENGTH Cost.
+Route 1112 1112-006-P yN P.E. 500
+Tc: 59-67 FR: Rt 1111 R/W
+TO: Rt 1103 CON 30,000
+SAAP Length: 0.15 Tor 30,500
+Grade, Drain
+(__i1._) Stabl. & New St
+Route 1111 1111-006-P N P.E. 500
+Tc: 53 FR: Rt 1103 R/W
+TO: Rt Dead End CON 25,000
+SAAP Length: 0.11 TOT 25,500
+Grade, Drain
+(2) Stabl. & New St
+Route 0631 0631-006-P N P.E. 1,000
+Tc: 60 FR: 0.37 ME Rt 627 R/W
+TO: 1.53 ME Rt 627 CON 200,000
+SAAP Length: 1.16 Tor 201,000
+Grade, Drain,
+( 3») Stabl. & New St
+Route 0724 0724-006-P N P.E. 1,000
+Tc: 56 FR: Rt 24 R/W
+TO: 1.00 MN Rt 24 CON 180,000
+SAAP Length: 1.00 TOT 181,000
+Grade, Drain,
+(_4 _) and New st.
+Route 0704 0704-006-P ,N P.E. 1,000
+Te: 59 FR: Rt 605 R/W
+TO: Dead End CON 75,000
+SAAP Length: 0.40 Tor 76,000
+Grade, Drain,
+(_ 5) Stabl., & New ST
+Route 0663 0663-006-P yN P.E. 1,000
+TC: 48 FR: Rt 26 R/W
+TO: Rt 665 CON 225,000
+SAAP Length: 1.50 TOT 226,000
+Grade, Drain,
+(_ 6 _») Stabl., & New St.
+Route 0626 0626-006-P N P.E. 1,000
+Ts: 54 FR: 0.05 MN Rt 617 R/W

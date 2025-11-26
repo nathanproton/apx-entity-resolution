@@ -1,0 +1,46 @@
+LOT
+Date: 04/23/1994
+Page: 1
+COMMONWEALTH OF VIRGINIA
+DEPARTMENT OF TRANSPORTATION
+SECONDARY SYSTEM
+DETAILS OF CONSTRUCTION BUDGET
+July 1, 1994 - June 30, 1995
+COUNTY (006) Appomattox
+RESIDENCY (20) Appomattox
+DISTRICT (3) Lynchburg
+ROUTE DESCRIPTION ESTIMATED PREVIOUSLY COMMENTS
+LENGTH cost.
+Route 8000 P.E. (e) (e) State Forces
+8000-5603 R/W 0) (0)
+Rural CON 40,000 fe)
+Additions TOT 40,000 (0)
+(_ 0)
+Route 8003 P.E. fe) ie) State Forces
+8003-5601 R/W (0) (0)
+Traffic CON 2,000 0
+Services, etc. TOT 2,000 )
+(_ 0)
+Route 8005 P.E. fe) (e) State Forces
+8005-5604 R/W (0) (0)
+Pipe Install- CON 30,000 (0)
+ation - Private
+Entrances TOT 30,000 (0)
+(_ 0)
+Route 8012 P.E. fe) ie) State Forces
+8012-5605 R/W 0 0
+Preliminary CON 5,000 )
+Engineering & TOT 5,000 (0)
+(0) Surveys
+Route 8014 P.E. (0) fe) State Forces
+8014-5606 R/W 0 (e)
+Fertilization CON 2,000 0)
+& Seeding TOT 2,000 (e)
+(_ 0)
+Route 8015 P.E. (e) (e) State Forces
+8015-5607 R/W 0 (e)
+Subdivision CON 1,000 (e)
+Plan Review TOT 1,000 (0)
+(_ 0)
+TOTAL COUNTY WIDE IMPROVEMENTS 80,000 0
+Page 2

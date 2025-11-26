@@ -1,0 +1,38 @@
+59
+DELETE:
+$185.00 from 1101-5804 Operating Reserve
+ADD:
+$159.00 to 3501-2005 Health Insurance
+$ 26.00 to 4302-2005 Health Insurance
+14. Victim Witness: Please make the following line item transfers by consent:
+DELETE:
+$ 23.00 from 2220-2009 Unemployment Insurance.
+$708.00 from 2220-5203 Telecommunications
+$120.00 from 2220-5401 Office Supplies
+$ 50.00 from 2220-5411 Books/Subscriptions
+$466.00 from 2220-5501 Mileage/Meals
+ADD:
+$865.00 to 2220-1001 Salary/Wages
+$90.00 to 2220-2001 FICA
+$ 4.00 to 2220-5201 Postage
+$408.00 to 1101-5804 Operating Reserve
+15. County Administration: Please make the following line item transfer by
+consent.
+DELETE:
+$1,150.00 from 1101-5804 Operating Reserve
+ADD:
+$1,150.00 to 5301-5304 State Local Hospitalization
+Mr. Craft made a motion, seconded by Mr. Conrad, to approve the Consent Agenda as
+presented. ROLL CALL VOTE: Mr. Conrad, aye; Mr. Craft, aye; Mr. Moore, aye; and
+Mr. Carter, aye. (4 aye votes — 1 absent)
+Mr. Carter then directed attention to the INFORMATIONAL ITEMS:
+16. Watershed Dams: Correspondence received from the Natural Resources
+Conservation Services concerning two watershed dams that they constructed in
+the community over 50 years ago. It appears that they are in the process of
+turning the care and maintenance of these structures over to Robert E. Lee Scil
+and Water Conservation District.
+17. Department of Game and Inland Fisheries: As you will remember, we
+wrote the Department of Games and Inland Fisheries and requested that they
+establish boating access to the Appomattox River for recreation purposes.
+Enclosed is their response to our request.
+18. GIS Class: Enclosed is an article about the GIS Class that Appomattox County

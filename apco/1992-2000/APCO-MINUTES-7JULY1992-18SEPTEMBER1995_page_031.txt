@@ -1,0 +1,53 @@
+02
+03
+05
+07
+012
+013
+021
+1101 Board of Supervisors 4000.00
+1201 County Administrator 10500.00
+Legal Services
+1209 Commissioner of Revenue 13500.00
+1213 Treasurer 12000.00
+Board of Elections
+1302 Registrar 3200.00
+Judicial Administration
+Courts
+2102 General District Court 150.00
+2105 J & D Relations Court 200.00
+2106 Clerk of Circuit Court 3200.00
+2107 Sheriff Serving Civil Papers 1955...00
+2109 Court Services Unit 150.00
+O22 Commonwealth’s Attorney
+2201 Commonwealth’s Attorney 4000.00
+Public Safety
+031 Law Enforcement and Traffic Control
+3102 Sheriff 61500.00
+3103 Jail 5400.00
+032 Fire and Rescue Services
+3202 Volunteer Fire Department 2500.00
+3104 Drug Grant 6000.00
+033 Corrections and Detention
+3301 Jail Operation 6000.00
+034 Inspections
+3401 Buildings 4300.00
+035 Other Protection
+3501 Animal Control 2300.00
+042 Sanitation and Waste Removal
+4203 Refuse Collection 3100.00
+4204 Refuse Disposal 17000.00
+043 Maintenance General Building & Grounds
+4302 General Properties 6000.00
+Health
+053 Welfare/Social Services
+5301 Social Services 5000.00
+5309 Rental Housing 1067.54
+Parks, Recreation & Cultural
+071
+073
+Parks & Recreation
+7102 Recreational Department 3800.00
+Library
+7303 County Library 6000.00
+031

@@ -1,0 +1,86 @@
+682
+1301 Electorial Board/Officials
+1302 Registrar
+2101 Circuit Court
+2102 General District Court
+2105 Juvenile/Domestic Relations Court
+2106 Clerk of Circuit Court
+2107 Sheriff(Civil Server)
+2109 Court Services Unit
+2130 Magistrate
+2201 Commonwealth Attorney
+2220 Witness Advocate Grant
+3102 Sheriff
+3103 Sheriff (Town Police)
+3106 DARE
+3108 Crime Prevention Grant
+3203 Volunteer Fire Departments
+3203 Volunteer Rescue Squads
+3204 Forestry Service
+3301 Sheriff/Ja
+i
+3401 Office of Building and
+Housing
+3501 Animal Control
+3503 Medical Examiner
+3605 Emergency
+Services
+4101 Road Viewers
+4203 Refuse Collection
+4204 Refuse Disposal
+4206 Litter Grant
+4207 Recyclin
+4208 Tire Security
+4302 General Properties
+5101 Local Health Department
+5105 Central Va Commission on Aging
+5202 Central
+VaCommunityServices
+5301 Social Services
+5302 State Local Hospitalization
+5309 Housing Worker Rental Assistance
+5310 Comprehensive Services
+6401 Central Virginia Community College
+7102 Parks & Recreation
+Department
+7104 Community Center
+27,549.00
+52,368.00
+15,200.00
+2,994.00
+4,900.00
+56,155.00
+41,261.00
+33,100.00
+1,025.00
+153,256.00
+20,715.00
+1,101,752.00
+97,344.00
+10,000.00
+113,430.00
+19,900.00
+7,300.00
+130,247.00
+59,997.00
+45,400.00
+500.00
+2,000.00
+125.00
+82,347.00
+266,795.00
+6,500.00
+24,395.00
+8,785.00
+204,231.00
+96,170.00
+4,058.00
+27,864.00
+4,507.00
+1,783.00
+21,638.00
+63,993.00
+381.00
+67,984.00
+16,982.00
+=

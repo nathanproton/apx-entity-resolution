@@ -1,0 +1,88 @@
+CONTRACT Bridge over Wreck TOT
+STATE Island Ck w/New EAD
+) Structure No. 6069 ECD
+341
+170,000
+04 1899
+12 1999
+"371 0608-006 C503 RUW/FR: S Int. Rt. 669 BEN
+TO: 0.20 ME RE 721 TOr
+) _Reconst Exist Rdwy ECD
+T00, 000
+100,000
+600,000
+800,000
+07 1999
+06 2000
+064T P.E.
+640 0641-006-137 ,C502 eel
+FR: WCL ittox
+CONTRACT TO: Rt 71! TOT
+Length: 1.20 EAD
+Reconst ast ECD
+70, 000
+30,000
+250,000
+350,000
+07 2602
+05 2003
+640 0641-162-137,C501 RW
+971 FR: Rt. 727
+CONTRACT TO: WCL ttox TOT
+$ 9 EADLength: 0.
+Reconst Exist ECD
+640 0641-006-137,B615 RW
+Repjace Existing IND
+CONTRACT Drainage structure TOT
+Trib Purdums BranchEAD
+Structure No. 6006 ECD
+64 0653-006-P86 ,N501 RW
+10524 FR: Rt 721 IN
+cr TO: Rt 608 TOr
+Length: 2.30 EAD
+) Gr, Dr., Stabl, ECD
+20, 000
+10/000
+100,000
+130/000
+07 2602
+05 2003
+, O00
+32/000
+07 2602
+05 2003
+Wi
+35/000 Contract Awarded 10/93
+380,000
+416,000
+07 1993
+07 1994
+ere 0645 P.E.
+54 0604-006-P89,N501_ R/W
+10523 FR: 0.06 MS Rt 643 CoN
+TO: Rt. 679 Tor
+Length: 2.
+) Gr., Dr., Stabl. & BCD
+2,000 Unpaved Road Funds
+57,000U
+400.000
+407,000
+04 1994
+12 1994
+Route ary P.E.
+4 0645-006-P89, D625 Ria
+10523 Replace Bridge IN
+TOT
+EAD
+T,000 Unpaved Road Funds
+150,000
+over North Fork 151,000
+Falling River w/ 04 1994
+) triple710’x 8” CED 12 1994
+Box Culvert
+Route 0701 P.E. T, 000 Unpaved Road Funds
+TC: 60 0701-006-P ,N R/W 3/000
+10526 FR: Rt 24 BON 75,000
+TO: Dead End Tor — 79,000
+Length: 0.43 EAD 07 1994
+) Gr.; Dr., Stabl. ECD 12 1994

@@ -1,0 +1,51 @@
+654
+2130 Magistrate 528.00
+2201 Commonwealth Attorney 127,486.00
+3102 Sheriff 817,338.00
+3103 Sheriff (Town Police) 70,451.00
+3104 Sheriff (Grant) 90,363.00
+3106 CADRE Grant 10,000.00
+3108 Crime Prevention Grant 40,991.00
+3202 Volunteer Fire Departments 104,155.00
+3203 Volunteer Rescue Squad 16,300.00
+3204 Forestry Service 7,300.00
+3301 Sheriff/Jail 106,162.00
+3401 Office of Building and Housing 50,556.00
+3501 Animal Control 44,273.00
+3503 Medical Examiner 500.00
+3605 Emergency Services 2,500.00
+4101 Road Viewers 75.00
+4203 Refuse Collection 145,156.00
+4204 Refuse Disposal 295,498.00
+4206 Litter Grant 2,889.00
+4207 Recycling 20,020.00
+4302 General Properties 153,000.00
+5101 Local Health Department 91,017.00
+5105 Central VA Commission on Aging 8,150.00
+5202 Central VA Community Services 25,885.00
+5302 State Local Hospitalization 4,295.00
+5309 Housing Worker Rental Assistance 17,732.00
+5310 Comprehensive Services 50,083.00
+6401 Central Virginia Community College 17,257.00
+7102 Parks & Recreation Department 58,937.00
+7104 Community Center 3,050.00
+7109 Contributions 15,000.00
+7205 Office on Youth 41,351.00
+7301 Public Library 100,004.00
+8101 Planning (CVPDC) 3,704.00
+8103 Summer Youth 40,834.00
+8104 Zoning 1,200.00
+8105 Economic Development 58,130.00
+8106 Chamber of Commerce 13,000.00
+8111 Board of Zoning Appeals 700.00
+8112 Planning Commission 2,200.00
+8203 Robert E. Lee Soil & Water Conservation 4,675.00
+8303 Extension Services 30,090.00
+9203 Commissioner of Accounts 240.00
+II. Capital Improvement Fund (Uncommitted) 150,000.00
+III. Virginia Public Assistance Fund 712,414.00
+IV. School Operating Fund 11,259,843.00
+BE IT FURTHER RESOLVED, THAT the County Treasurer be, and is hereby,
+authorized to transfer from the General Revenue Funds pursuant
+to this Resolution, as monies become available, and from time to
+time to meet the expenditures for amounts appropriated sums equa

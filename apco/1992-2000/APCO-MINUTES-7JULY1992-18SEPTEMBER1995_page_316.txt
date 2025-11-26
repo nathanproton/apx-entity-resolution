@@ -1,0 +1,55 @@
+3 1 6
+ROUTE DESCRIPTION ESTIMATED COMMENTS
+LENGTH COsT.
+Route 8000 P.E. 0
+County Wide Items R/W O Surveys & Preliminary
+Engr; New Additions,
+CON 480,000 Traffic Services;
+Tor 480,000 Install. of Entrance Pipes
+(_ 0 ) Fertilization & Seedi
+Route 8000 County Wide- P.E. 0 Unpaved Road Funds
+Unpaved Road R/W 0 1996-97 thru 1999-00
+Construction and CON 849,506
+New Surface Treat- TOT 849,506 (Unpaved Road Priority
+ment of Unimproved list attached to Super-
+(0) Roads with 50 VPD visors Report)
+Route 0656 P.E. 1,000
+Te: 296 0656-006-181,N501 R/W 5,000
+ID: 5776 FR:0.20 MN RT 657 CON 150,000
+Contract TO:0.20 MS Rt 687 TOT 156,000
+State Length: 1.00 EAD 02 1994
+(_1_) Reconst exist rdwy EDC 10 1994
+Route 0627 P.E. 45,000 Contract Awarded 10/01/93
+qe: 516 0627-006-165,M501 R/W 3,000
+ID: 1078 FR: Rt 24 CON 80,000
+CONTRACT TO: 0.046 ME RT24 TOT 128,000
+BRSTP Length: 0.046 EAD 07 1993
+(_2_) Approach to Dr Std ECD 06
+Route 0627 P.E. 2,000 Contract Awarded 10/01/93
+Tc: 516 0627-006-165 D619 R/W ie)
+ID: 1078 Replace Br. over CON 50,000
+Contract Plain Run Branch TOT 52,000
+BRSTP with Structural EAD 07 1993
+(2 ) Plate Arch Pipe ECD 06 1994
+Route 0656 P.E. 1,000
+TC: 296 0656-006-181,N502 R/W 10,000
+ID: 5775 FR: E Int Rt 24 CON 150,000
+SAAP TO: 0.20 MS Rt 687 TOT 161,000
+STATE: Length: 1.00 EAD 02 1994
+(3 ) Reconst exist Rdwy ECD 11 1994
+Route 0695 P.E. 10,000
+TCs 107 0695-006-190,C501 R/W/ 31,550
+ID: 5774 FR:1.0 MS Rt 460 CON 102,000
+CONTRACT TO:1.2 MS Rt 460 TOT 143,550
+BROS Length: 0.20 FAD 11 1995
+(_4 ) Appr to New Bridge ECD 10 1996
+Route 0695 P.E. 30,000
+TCs 107 0695-006-190,C501 R/W [e)
+ID: 5774 Replace Existing CON 290,000
+CONTRACT Bridge over N&W ToT 320,000
+BROS RR with new Bridge EAD 11 1995
+(_4 ) Structure No. 6073 ECD 10 1996
+Route 0608 P.E. 50,000
+Te: 1174 0608-006-142,C502 R/W 110,000
+ID: 5757 FR: 0.086 MN Rt609 CON 485,000
+CONTRACT TO: Rt.669 Tor 645,000
