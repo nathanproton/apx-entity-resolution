@@ -1,0 +1,52 @@
+160
+2105) Juvenile/Domestic Relations Court 2,926.00
+2106|Clerk of Circuit Court 226,184.00
+2107|Sheriff(Civil Server) 64,140.00
+2109|Court Services Unit 50,932.00
+2130/Magistrate | 1,450.00
+2201|Commonwealth Attorney 245,044.00
+2202|Virginia Domestic Victim Grant 50,034.00
+2220|Witness Advocate Grant 21,198.00
+3102/ Sheriff | 1,724,974.00
+3103/Sheriff (Town Police) 49,000.00
+3104/Sheriff/Grant 79,894.00
+3106/DARE 10,212.00
+3203/Volunteer Fire Departments 143,112.00
+3203/Volunteer Rescue Squads 20,800.00
+3204|Forestry Service 7,124.00
+3301|Sheriff/Jail | 316,882.00
+3401 |Office of Building and Housing 65,025.00
+3501 /Animal Control 75,546.00
+3503|Medical Examiner 500
+3605|Emergency Services 1,626.00
+3606/E-911 l 453,475.00
+4101|Road Viewers 35300
+4203|Refuse Collection 163,481.00
+4204|Refuse Disposal 836,918.00
+4206|Litter Grant 7,500.00
+4207/Recycling 30,213.00
+4208|Tire Security 20,852.00
+4302|General Properties 363,250.00
+5101|Local Health Department 105,822.00
+5105/Central Va Commission on Aging 5,600.00
+5202|Central Va Community Services 33,958.00
+5301|Social Services | 3,907.00
+5302/State Local Hospitalization 5,356.00
+5309/Courthous 0.00
+e
+5310|Comprehensive Services 190,000.00
+6401 |Central Virginia Community College 15,381.00
+7101|Sports Complex Fund l 100,000.00
+7102|Parks & Recreation Department 182,035.00
+7104/Tourism | 40,000.00
+7109}|Contributions 17,125.00
+7301 |Public Library 152,360.00
+8101/|Planning (CVPDC) 6,943.00
+8103|Debt Service 1,195,278.00
+8104/Zoning l 5,250.00
+8105/Economic Development 36,455.00
+8106|Chamber of Commerce 0.00
+8111|Board of Zoning Appeals 600.00
+8112|Planning Commission | 8,498.00
+8203/Robert E. Lee Soil and Water Conservation 10,000.00
+8303/Extension Services _| l 36,456.00
