@@ -26,9 +26,27 @@
   --search-highlight: #fbbf24;
   --link: #2563eb;
   --link-hover: #1d4ed8;
+  --content-font-size: 16px;
   --font-serif: "Georgia", "Times New Roman", serif;
   --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   --font-mono: "SF Mono", "Fira Code", "Fira Mono", monospace;
+}
+
+/* ── Dark Mode ── */
+
+html.dark {
+  --bg: #1c1c1c;
+  --surface: #2a2a2a;
+  --border: #404040;
+  --text: #e5e5e5;
+  --text-muted: #a3a3a3;
+  --accent: #e5e5e5;
+  --accent-hover: #d4d4d4;
+  --page-divider: #404040;
+  --highlight: #854d0e;
+  --search-highlight: #92400e;
+  --link: #60a5fa;
+  --link-hover: #93c5fd;
 }
 
 html {
@@ -59,8 +77,12 @@ body {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
 }
 
+html.dark .toolbar {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+}
+
 .toolbar h1 {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 600;
   letter-spacing: -0.01em;
   white-space: nowrap;
@@ -83,7 +105,7 @@ body {
 }
 
 .toolbar-group label {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 500;
   color: var(--text-muted);
   white-space: nowrap;
@@ -94,7 +116,7 @@ input[type="number"],
 input[type="text"] {
   appearance: none;
   font-family: var(--font-sans);
-  font-size: 13px;
+  font-size: 14px;
   padding: 6px 12px;
   border: 1px solid var(--border);
   border-radius: 6px;
@@ -112,6 +134,10 @@ select {
   cursor: pointer;
 }
 
+html.dark select {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23a3a3a3' d='M3 4.5L6 8l3-3.5H3z'/%3E%3C/svg%3E");
+}
+
 input[type="number"] {
   width: 80px;
 }
@@ -122,19 +148,18 @@ input[type="text"]:focus {
   border-color: var(--accent);
 }
 
-/* Disabled states */
+/* Disabled states — no pointer-events:none so tooltips still show */
 
 select:disabled,
 input:disabled,
 button:disabled {
   opacity: 0.4;
   cursor: not-allowed;
-  pointer-events: none;
 }
 
 button.go-btn {
   font-family: var(--font-sans);
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 500;
   padding: 6px 14px;
   border: 1px solid var(--accent);
@@ -162,19 +187,23 @@ button.go-btn:hover {
 }
 
 .search-group input[type="text"] {
-  width: 220px;
+  width: 320px;
   padding-left: 30px;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%2378716c' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
   background-position: 10px center;
 }
 
+html.dark .search-group input[type="text"] {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%23a3a3a3' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'/%3E%3C/svg%3E");
+}
+
 .search-group input[type="text"]:focus {
-  width: 300px;
+  width: 450px;
 }
 
 .search-meta {
-  font-size: 11px;
+  font-size: 12px;
   color: var(--text-muted);
   white-space: nowrap;
   margin-top: 0;
@@ -185,7 +214,7 @@ button.go-btn:hover {
 .book-content {
   max-width: 800px;
   margin: 0 auto;
-  padding: 32px 24px 120px;
+  padding: 32px 24px 160px;
 }
 
 .page-block {
@@ -220,7 +249,7 @@ button.go-btn:hover {
 
 .page-text {
   font-family: var(--font-serif);
-  font-size: 16px;
+  font-size: var(--content-font-size);
   line-height: 1.8;
   white-space: pre-wrap;
   word-wrap: break-word;
@@ -232,6 +261,11 @@ button.go-btn:hover {
   border-color: #eab308;
 }
 
+html.dark .page-block.highlighted .page-label {
+  border-color: #ca8a04;
+  color: #fef3c7;
+}
+
 /* ── Search result highlights ── */
 
 .search-result .page-label {
@@ -240,11 +274,21 @@ button.go-btn:hover {
   color: #1e40af;
 }
 
+html.dark .search-result .page-label {
+  background: #1e3a5f;
+  border-color: #3b82f6;
+  color: #93c5fd;
+}
+
 mark {
   background: var(--search-highlight);
   color: inherit;
   padding: 1px 2px;
   border-radius: 2px;
+}
+
+html.dark mark {
+  color: #fef3c7;
 }
 
 .no-results {
@@ -298,6 +342,10 @@ mark {
   background: #f5f5f4;
 }
 
+html.dark .index-row:hover {
+  background: #333333;
+}
+
 .book-link {
   color: var(--link);
   text-decoration: underline;
@@ -342,6 +390,10 @@ mark {
 .view-original.copied-flash {
   color: #16a34a;
   text-decoration: none;
+}
+
+html.dark .view-original.copied-flash {
+  color: #4ade80;
 }
 
 /* ── PDF Modal ── */
@@ -424,11 +476,66 @@ mark {
   }
 }
 
+/* ── Options Bar ── */
+
+.options-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 8px 24px;
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+  box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.04);
+}
+
+html.dark .options-bar {
+  box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.25);
+}
+
+.options-btn {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 500;
+  padding: 4px 12px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--bg);
+  color: var(--text);
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.options-btn:hover {
+  border-color: var(--accent);
+  background: var(--surface);
+}
+
+.options-label {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--text-muted);
+  min-width: 40px;
+  text-align: center;
+}
+
+.options-sep {
+  width: 1px;
+  height: 20px;
+  background: var(--border);
+  margin: 0 8px;
+}
+
 /* ── Scroll-to-top button ── */
 
 .scroll-top {
   position: fixed;
-  bottom: 24px;
+  bottom: 64px;
   right: 24px;
   width: 40px;
   height: 40px;
@@ -459,21 +566,21 @@ mark {
   }
 
   .toolbar h1 {
-    font-size: 14px;
+    font-size: 16px;
     width: 100%;
   }
 
   .search-group input[type="text"],
   .search-group input[type="text"]:focus {
-    width: 160px;
+    width: 100%;
   }
 
   .book-content {
-    padding: 20px 16px 100px;
+    padding: 20px 16px 160px;
   }
 
   .page-text {
-    font-size: 15px;
+    font-size: var(--content-font-size);
   }
 
   .index-table {
@@ -481,6 +588,7 @@ mark {
   }
 }
 </style>
+  <script>if(localStorage.getItem("apxwiki-dark-mode")==="true")document.documentElement.classList.add("dark")</script>
 </head>
 <body>
   <div class="toolbar">
@@ -570,6 +678,76 @@ mark {
   }
 
   window.openPdfModal = openModal;
+})();
+</script>
+  <script>(function () {
+  var FONT_KEY = "apxwiki-font-size";
+  var DARK_KEY = "apxwiki-dark-mode";
+  var DEFAULT_SIZE = 16;
+  var MIN_SIZE = 12;
+  var MAX_SIZE = 28;
+  var STEP = 2;
+
+  var fontSize = parseInt(localStorage.getItem(FONT_KEY), 10) || DEFAULT_SIZE;
+  var darkMode = localStorage.getItem(DARK_KEY) === "true";
+
+  function applyFontSize() {
+    document.documentElement.style.setProperty(
+      "--content-font-size",
+      fontSize + "px"
+    );
+    var label = document.getElementById("font-size-label");
+    if (label) label.textContent = fontSize + "px";
+  }
+
+  function applyDarkMode() {
+    document.documentElement.classList.toggle("dark", darkMode);
+    var btn = document.getElementById("dark-mode-btn");
+    if (btn) btn.textContent = darkMode ? "Light Mode" : "Dark Mode";
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    var bar = document.createElement("div");
+    bar.className = "options-bar";
+
+    bar.innerHTML =
+      '<button id="font-decrease" class="options-btn" title="Decrease font size">A\u2212</button>' +
+      '<span id="font-size-label" class="options-label">' +
+      fontSize +
+      "px</span>" +
+      '<button id="font-increase" class="options-btn" title="Increase font size">A+</button>' +
+      '<span class="options-sep"></span>' +
+      '<button id="dark-mode-btn" class="options-btn">' +
+      (darkMode ? "Light Mode" : "Dark Mode") +
+      "</button>";
+
+    document.body.appendChild(bar);
+
+    applyFontSize();
+    applyDarkMode();
+
+    document.getElementById("font-decrease").addEventListener("click", function () {
+      if (fontSize > MIN_SIZE) {
+        fontSize -= STEP;
+        localStorage.setItem(FONT_KEY, fontSize);
+        applyFontSize();
+      }
+    });
+
+    document.getElementById("font-increase").addEventListener("click", function () {
+      if (fontSize < MAX_SIZE) {
+        fontSize += STEP;
+        localStorage.setItem(FONT_KEY, fontSize);
+        applyFontSize();
+      }
+    });
+
+    document.getElementById("dark-mode-btn").addEventListener("click", function () {
+      darkMode = !darkMode;
+      localStorage.setItem(DARK_KEY, darkMode);
+      applyDarkMode();
+    });
+  });
 })();
 </script>
   <script>document.addEventListener("DOMContentLoaded", () => {

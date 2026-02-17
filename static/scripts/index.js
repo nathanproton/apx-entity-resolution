@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   const content = document.getElementById("book-content");
+  const agencySelect = document.getElementById("agency-select");
   const DATA = window.__INDEX_DATA__;
 
   const agencies = [
@@ -12,6 +13,13 @@ document.addEventListener("DOMContentLoaded", () => {
       label: "Appomattox County Board of Supervisors",
     },
   ];
+
+  // Navigate to agency page when selected
+  agencySelect.addEventListener("change", () => {
+    if (agencySelect.value) {
+      window.location.href = agencySelect.value + ".html";
+    }
+  });
 
   function formatCorpus(corpus) {
     if (!corpus || corpus.length < 17) return "";
