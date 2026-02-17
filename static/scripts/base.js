@@ -125,10 +125,31 @@ document.addEventListener("DOMContentLoaded", () => {
         window.openPdfModal(AGENCY_KEY, bookKey, page.plate);
       });
 
+      const sep1 = document.createElement("span");
+      sep1.className = "label-sep";
+      sep1.textContent = "|";
+
+      const copyLink = document.createElement("button");
+      copyLink.className = "view-original";
+      copyLink.textContent = "Copy Link";
+      copyLink.addEventListener("click", () => {
+        const url = `${location.origin}${location.pathname}#book=${bookKey}&page=${page.plate}`;
+        navigator.clipboard.writeText(url).then(() => {
+          copyLink.textContent = "Copied!";
+          copyLink.classList.add("copied-flash");
+          setTimeout(() => {
+            copyLink.textContent = "Copy Link";
+            copyLink.classList.remove("copied-flash");
+          }, 1500);
+        });
+      });
+
       const labelRow = document.createElement("div");
       labelRow.className = "page-label-row";
       labelRow.appendChild(label);
       labelRow.appendChild(viewLink);
+      labelRow.appendChild(sep1);
+      labelRow.appendChild(copyLink);
 
       const text = document.createElement("div");
       text.className = "page-text";
@@ -224,10 +245,22 @@ document.addEventListener("DOMContentLoaded", () => {
         window.openPdfModal(AGENCY_KEY, result.book, result.plate);
       });
 
+      const sep1 = document.createElement("span");
+      sep1.className = "label-sep";
+      sep1.textContent = "|";
+
+      const openInBook = document.createElement("a");
+      openInBook.className = "view-original";
+      openInBook.textContent = `Open in Book ${result.book}`;
+      openInBook.href = `${AGENCY_KEY}.html#book=${result.book}&page=${result.plate}`;
+      openInBook.target = "_blank";
+
       const labelRow = document.createElement("div");
       labelRow.className = "page-label-row";
       labelRow.appendChild(label);
       labelRow.appendChild(viewLink);
+      labelRow.appendChild(sep1);
+      labelRow.appendChild(openInBook);
 
       const text = document.createElement("div");
       text.className = "page-text";
@@ -367,15 +400,26 @@ document.addEventListener("DOMContentLoaded", () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   });
 
-  // Initial render — check hash for #book=N
+  // Initial render — check hash for #book=N or #book=N&page=M
   if (books.length > 0) {
     let initialBook = books[0];
+    let initialPage = null;
     const hash = window.location.hash;
     const bookMatch = hash.match(/book=(\d+)/);
     if (bookMatch && DATA[bookMatch[1]]) {
       initialBook = bookMatch[1];
     }
+    const pageMatch = hash.match(/page=(\d+)/);
+    if (pageMatch) {
+      initialPage = pageMatch[1];
+    }
     bookSelect.value = initialBook;
     renderBook(initialBook);
+
+    if (initialPage) {
+      requestAnimationFrame(() => {
+        scrollToPage(initialPage);
+      });
+    }
   }
 });
